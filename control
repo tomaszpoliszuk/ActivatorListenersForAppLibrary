@@ -1,0 +1,8 @@
+Package: com.tomaszpoliszuk.activatorlistenersforapplibrary
+Name: Activator Listeners For App Library
+Version: 0.9
+Architecture: iphoneos-arm
+Depends: firmware (>= 14.0), mobilesubstrate, libactivator
+Author: Tomasz Poliszuk
+Section: Addons (Activator)
+dev: tomaszpoliszuk

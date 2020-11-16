@@ -1,0 +1,6 @@
+{
+	title = "Activate App Library";
+	description = "Show App Library";
+	group = "System Actions";
+	"compatible-modes" = ("springboard");
+}

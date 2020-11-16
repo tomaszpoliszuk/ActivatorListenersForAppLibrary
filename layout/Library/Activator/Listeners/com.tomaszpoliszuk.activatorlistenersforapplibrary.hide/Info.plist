@@ -1,0 +1,6 @@
+{
+	title = "Dismiss App Library";
+	description = "Hide App Library";
+	group = "System Actions";
+	"compatible-modes" = ("springboard");
+}
